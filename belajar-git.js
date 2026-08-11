@@ -1,5 +1,3 @@
-let nama = "Dika Prasetya Darmawan";
-let umur = 25;
+let nama = "Dika Prasetya Darmawan"
 
 console.log(nama);
-console.log(umur);
